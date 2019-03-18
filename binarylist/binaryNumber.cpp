@@ -2,10 +2,12 @@
 # Name:        binaryNumber.cpp
 # Purpose:  A linked list implementation of a binary number.
 #
-# Author:      Assignment concept by pearcej, converted to Python and back to
-#               C++ by nakazawam
+# Original Authors:      Assignment concept by Jan Pearce, 
+#		    converted to Python and back to C++ by Mario Nakazawa
+#			C++ improvements by Jan Pearce
 #
-# Created:     21/09/2014
+#
+# Originally Created:     21/09/2014
 #------------------------------------------------------------------------------*/
 
 #include "bit.cpp"
@@ -112,7 +114,7 @@ public:
 		leastSignificantBit = NULL;
 		numBits = 0;
 	}
-	/*
+	/* TODO:
 	# You are to implement this function that will increment the binary
 	# number stored in a linked list by one, making sure to propogate any
 	# carries that are generated.

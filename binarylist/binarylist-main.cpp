@@ -1,10 +1,9 @@
 /*-------------------------------------------------------------------------------
-# Name:        binaryNumber_driver.cpp
-# Purpose:
+# Purpose: TODO:
 #
-# Authors:      nakazawam & pearecej
+# Original Authors:      Mario Nakazawa & Jan Pearce
 #
-# Created:     21/09/2014
+# Original Creation date:     21/09/2014
 #------------------------------------------------------------------------------*/
 
 #include "binaryNumber.cpp"
@@ -18,9 +17,9 @@ int main() {
 	BinaryNumber testing = BinaryNumber();
 	cout << "instantiation of testing list.\n" << endl;
 
-	testing.convert_decimal_to_binary(10);
+	testing.convert_decimal_to_binary(14);
 	cout << testing.to_string() << endl;
-	cout << "converted ten to binary.\n" << endl;
+	//cout << "converted ten to binary.\n" << endl;
 
 	testing.increment();
 	cout << testing.to_string() << endl;
