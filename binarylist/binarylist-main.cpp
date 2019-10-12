@@ -17,13 +17,15 @@ int main() {
 	BinaryNumber testing = BinaryNumber();
 	cout << "instantiation of testing list.\n" << endl;
 
-	testing.convert_decimal_to_binary(14);
+	int mynumber = 4;
+
+	testing.convert_decimal_to_binary(mynumber);
+	cout << " My number is " << mynumber << " which is:" << endl;
 	cout << testing.to_string() << endl;
-	//cout << "converted ten to binary.\n" << endl;
 
 	testing.increment();
+	cout <<"After incrementing we have "<< mynumber+1 << " which is: (needs to be implemented):" << endl;
 	cout << testing.to_string() << endl;
-	cout << "after incrementing (needs to be implemented.)\n" << endl;
 
 	testing.remove_all();
 	cout << testing.to_string() << endl;
