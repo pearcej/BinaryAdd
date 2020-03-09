@@ -3,10 +3,11 @@
 ## This lab is designed to give you familiarity with an important aspect 
 ## of binary arithmetic, namely adding 1 or incrementing which sometimes 
 ## results in the propagation of a carry through the bits. 
-## Starter files have been provided for you in C++
 
-## *FIXME: Author(s) of logic and code: add name(s) here*
-## Authors of lab and stubs: Mario Nakazawa and Jan Pearce, Berea College
+### Starter files have been provided for you in C++
+
+### *FIXME: Author(s) of logic and code: add name(s) here*
+### Authors of lab and stubs: Mario Nakazawa and Jan Pearce, Berea College
 
 1. **WHITEBOARD DESIGN**
 *Write a high level design plan for your program.
