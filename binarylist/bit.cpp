@@ -1,9 +1,9 @@
 /*-------------------------------------------------------------------------------
-# Name:        bit.cpp
 # Purpose:  a C++ object oriented representation of a bit in a binary number.
 #
-# Author:      Assignment concept: pearcej, converted to Python by nakazawam
-#              and then back to C++ by nakazawam
+# Author:      Assignment concept: Jan Pearce, converted to Python by 
+#              Mario Nakazawa
+#              and then back to C++ by Mario Nakazawa
 #       Note that this implementation of a bit is using true OOP because
 #       access to the instance variables is restricted to appropriate methods.
 #

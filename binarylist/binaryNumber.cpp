@@ -1,8 +1,7 @@
 /*-------------------------------------------------------------------------------
-# Name:        binaryNumber.cpp
 # Purpose:  A linked list implementation of a binary number.
 #
-# Original Authors:      Assignment concept by Jan Pearce, 
+# Original Authors: Assignment concept by Jan Pearce, 
 #		    converted to Python and back to C++ by Mario Nakazawa
 #			C++ improvements by Jan Pearce
 #
@@ -115,11 +114,11 @@ public:
 		numBits = 0;
 	}
 	/* TODO:
-	# You are to implement this function that will increment the binary
+	# You are to implement this method that will increment the binary
 	# number stored in a linked list by one, making sure to propogate any
 	# carries that are generated.
 	# For example, if the number 15 is stored as "1111" and this
-	# function is called,the result would be "10000" (really
+	# method is called,the result would be "10000" (really
 	# represented as 0->0->0->0->1, where the carry "rippled" up the
 	# bits, and an additional bit was added at the end because the 4th
 	# 1 really became a "10"

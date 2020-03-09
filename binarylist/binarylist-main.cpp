@@ -1,9 +1,9 @@
 /*-------------------------------------------------------------------------------
 # Purpose: TODO:
 #
-# Original Authors:      Mario Nakazawa & Jan Pearce
-#
+# Original Authors:           Mario Nakazawa & Jan Pearce
 # Original Creation date:     21/09/2014
+# Increment implementation by: FIXME
 #------------------------------------------------------------------------------*/
 
 #include "binaryNumber.cpp"
@@ -17,7 +17,7 @@ int main() {
 	BinaryNumber testing = BinaryNumber();
 	cout << "instantiation of testing list.\n" << endl;
 
-	int mynumber = 4;
+	int mynumber = 17;
 
 	testing.convert_decimal_to_binary(mynumber);
 	cout << " My number is " << mynumber << " which is:" << endl;
