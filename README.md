@@ -5,9 +5,8 @@
 ## results in the propagation of a carry through the bits. 
 ## Starter files have been provided for you in C++
 
-## *FIXME: Author(s) of primary logic and code: add name(s) here*
-## Author of stub: Jan Pearce, Berea College
-
+## *FIXME: Author(s) of logic and code: add name(s) here*
+## Authors of lab and stubs: Mario Nakazawa and Jan Pearce, Berea College
 
 1. **WHITEBOARD DESIGN**
 *Write a high level design plan for your program.
@@ -119,5 +118,5 @@ Also list all other references below.*
 *FIXME*
 
 ## References:
-- This repo contains a stub by Jan Pearce
+- This repo contains a stubs by Mario Nakazawa and Jan Pearce
 - *FIXME*
