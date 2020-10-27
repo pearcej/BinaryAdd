@@ -1,4 +1,4 @@
-/*-------------------------------------------------------------------------------
+/*--------------------------------------------------------------------------------a
 # Purpose:  A linked list implementation of a binary number.
 #
 # Original Authors: Assignment concept by Jan Pearce, 
